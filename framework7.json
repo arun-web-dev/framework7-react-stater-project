@@ -1,0 +1,19 @@
+{
+  "cwd": "E:\\react js\\framework7 setup\\framework7 20.04.22",
+  "type": [
+    "web"
+  ],
+  "name": "My App",
+  "framework": "react",
+  "template": "single-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
